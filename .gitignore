@@ -6,3 +6,25 @@
 
 # Ignore all JSON files
 *.json
+
+*.pkl
+
+*.csv.zip
+*.csv.gz
+*.csv.bz2
+*.csv.tar
+*.csv.rar
+*.csv.7z
+*.csv.xz
+*.csv.wim
+
+*.npz
+*.npy
+*.nii
+*.nii.gz
+*.nii.bz2
+*.nii.tar
+*.nii.rar
+
+
+*.log
